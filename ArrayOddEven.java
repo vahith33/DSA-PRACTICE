@@ -1,4 +1,4 @@
-public class ArrayOddEven {
+public class Main {
     public static void main(String[] args) {
         int array[]={2,4,7,9,12};
         int oddCount = 0;
