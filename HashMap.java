@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class HashMap {
     public static void main(String[] args) {
 
         //creation
