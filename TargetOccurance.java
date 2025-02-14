@@ -1,4 +1,4 @@
-public class TargetOccurance {
+public class Main {
     public static void main(String[] args) {
         int [] array={2,3,2,1,6,7,2};
         int target=2,count=0;
